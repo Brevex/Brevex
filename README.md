@@ -18,27 +18,33 @@
   
 </div>
 
-### Skills:
-          
-<div style="display: inline_block"><br>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brevex&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brevex&layout=compact&langs_count=16&theme=nightowl"/>
+</div>
 
+<br>
+
+<div align="center">
+  <h2>Languages</h2>
+</div>
+          
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" alt="C_plus_plus" height="50" width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg" />
-  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-                
-         
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />              
 </div><br>
 
-### Tools:
+<div align="center">
+  <h2>Tools</h2>
+</div>
 
-<div style="display: inline_block"><br>
-
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Jupyter_Notebook" height="50" width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" />
   <img align="center" alt="Git" height="50" width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg" />
-  <img align="center" alt="VS_Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  
+  <img align="center" alt="VS_Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
