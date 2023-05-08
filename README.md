@@ -41,10 +41,11 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Fedora" height="50" width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/fedora.svg" />
   <img align="center" alt="Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Jupyter_Notebook" height="50" width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" />
   <img align="center" alt="Git" height="50" width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg" />
-  <img align="center" alt="VS_Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+  <img align="center" alt="VS_Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
