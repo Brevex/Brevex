@@ -30,8 +30,8 @@
 </div>
           
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="HTML" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_html.svg" />
+  <img align="center" alt="CSS" height="50" width="60" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_css.svg" />
   <img align="center" alt="C_plus_plus" height="50" width="60" src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg" />
   <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />              
 </div><br>
