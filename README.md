@@ -12,12 +12,6 @@
   </p>
 </div>
 
-<div>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Brevex&bg_color=0d1117&color=6495ED&line=6495ED&point=DCDCDC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brevex&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brevex&layout=compact&langs_count=16&theme=nightowl"/>
