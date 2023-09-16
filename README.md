@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>
-      IT student who aspires to become a software engineer. Currently my studies are focused on web and data science.
+      IT student who aspires to become a software engineer. Currently my studies are focused on backend development.
   </p>
 </div>
 
