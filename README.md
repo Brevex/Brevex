@@ -23,7 +23,7 @@
   <h2>Languages</h2>
 </div>
           
-<p align="center">
+<br><p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,cpp,java" />
   </a>
@@ -33,7 +33,7 @@
   <h2>Tools</h2>
 </div>
 
-<p align="center">
+<br><p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux" />
   </a>
