@@ -1,6 +1,6 @@
 <div>
   <img align="center" alt="Banner" src="https://www.canva.com/design/DAFiLNDD-x0/view">
-</div>
+</div><br>
 
 <div align="center">
   <p>
@@ -11,9 +11,7 @@
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brevex&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brevex&layout=compact&langs_count=16&theme=nightowl"/>
-</div>
-
-<br>
+</div><br>
 
 <div align="center">
   <h2>Languages - Frameworks - Tools</h2>
