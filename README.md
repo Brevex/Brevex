@@ -12,9 +12,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brevex&layout=compact&langs_count=16&theme=nightowl"/>
 </div><br>
 
-<div align="center">
-  <h2> &#128293; Languages - Frameworks - Tools &#128293; </h2>
-</div>
+<h2 align="center"> &#128293; Languages - Frameworks - Tools &#128293; </h2>
           
 <br><p align="center">
   <a href="https://skillicons.dev">
