@@ -1,5 +1,4 @@
-
-
+![Header](./github-header-image.png)
 
 <br><div align="center">
   <p> IT student who aspires to become a software engineer. Currently my studies are focused on backend development.</p>
