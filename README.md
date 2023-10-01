@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Brevex/Brevex/blob/main/GitHub%20Banner.png)
+
 
 <br><div align="center">
   <p> IT student who aspires to become a software engineer. Currently my studies are focused on backend development.</p>
