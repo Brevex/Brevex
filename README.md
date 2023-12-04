@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
- <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Brevex&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
- <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brevex&layout=compact&langs_count=16&theme=nightowl"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Brevex&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brevex&layout=donut&langs_count=16&theme=nightowl"/>
 </div><br>
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
