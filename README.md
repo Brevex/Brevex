@@ -2,12 +2,13 @@
 
 <br><div align="center">
   <p> IT student who aspires to become a software engineer. Currently my studies are focused on backend development.</p>
-</div>
-
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brevex&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brevex&layout=donut&langs_count=16&theme=gotham"/>
 </div><br>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brevex&theme=gotham) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brevex&theme=gotham) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brevex&theme=gotham) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brevex&theme=gotham) |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brevex&theme=gotham&utcOffset=8) |
+| :-: | :-: |
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
           
