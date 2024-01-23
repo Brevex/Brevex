@@ -17,7 +17,7 @@
           <h2 align="center">Languages - Frameworks - Tools</h2>
           <p align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=java,spring,cpp,rust,html,css,git,linux" />
+              <img src="https://skillicons.dev/icons?i=java,spring,cpp,rust,linux" />
             </a>
           </p><br>
 </div>
