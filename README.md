@@ -3,13 +3,11 @@
           <br>
           <br>
           <br>
-           <p align="right">My career is centered around Java for back-end development and low-level programming 
+           <p align="left">My career is centered around Java for back-end development and low-level programming 
           for systems, allowing me to enjoy the best of both worlds. Exploring languages like C++ 
           has sparked my curiosity about the inner workings of systems. I leverage this curiosity 
           as motivation to tackle complex problems.</p>
-          <div align="center">
-                    <a href="https://devbreno.com.br/">| CHECKOUT MY WEBSITE |</a>
-          </div>
+          <a href="https://devbreno.com.br/">| CHECKOUT MY WEBSITE |</a>
 </div>
 <br>
 <br>
