@@ -1,5 +1,9 @@
 <h1 align="center">Hello, I'm Breno</h1>
 
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" href="www.linkedin.com/in/brenobdev">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
 <p>My career is centered around Java for back-end development and low-level programming 
 for systems, allowing me to enjoy the best of both worlds. Exploring languages like C++
 has sparked my curiosity about the inner workings of systems. I leverage this curiosity 
