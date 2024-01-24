@@ -8,7 +8,7 @@
           <img src="https://skillicons.dev/icons?i=java,spring,cpp,rust,linux" />
           <p>
                     <br>
-                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brevex&theme=blueberry" href="http://github.com/brevex" alt="Repositórios por Linguagem">
-                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brevex&theme=blueberry&utcOffset=8" href="http://github.com/brevex" alt="Tempo Produtivo">
+                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brevex&theme=blueberry" href="http://github.com/brevex" style="width: 250px;">
+                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brevex&theme=blueberry&utcOffset=8" href="http://github.com/brevex" style="width: 250px;">
           </p>
 </div>
