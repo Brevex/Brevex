@@ -16,7 +16,7 @@ as motivation to tackle complex problems.</p>
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brevex&theme=codeSTACKr" href="http://github.com/brevex" style="width: 250px;">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brevex&theme=codeSTACKr" href="http://github.com/brevex" style="width: 250px;">
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brevex&theme=codeSTACKr&utcOffset=8" href="http://github.com/brevex" style="width: 250px;">
-</p><br><hr>
+</p><hr>
 
 <p align="center">
           <a href="https://devbreno.com.br/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
