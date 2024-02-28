@@ -7,7 +7,7 @@ as motivation to tackle complex problems.</p>
 
 <h3>Languages, Frameworks and Tools</h3><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,rust,git,linux">
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,git,linux">
 
 <h3>Stats</h3>
 
