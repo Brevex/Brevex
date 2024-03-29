@@ -1,9 +1,6 @@
 <h1>Hello, I'm Breno</h1>
 
-<p>My career is centered around Java for back-end development and low-level programming 
-for systems, allowing me to enjoy the best of both worlds. Exploring languages like C++
-has sparked my curiosity about the inner workings of systems. I leverage this curiosity 
-as motivation to tackle complex problems.</p>
+<p>My career is centered on systems development. I like exploring technologies like Rust, Python and Java to combine performance and productivity, taking advantage of both worlds of programming.</p>
 
 <h3>Languages, Frameworks and Tools</h3><br>
 
