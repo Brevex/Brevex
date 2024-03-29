@@ -1,10 +1,10 @@
 <h1>Hello, I'm Breno</h1>
 
-<p>My career is centered on systems development. I like exploring technologies like Rust, Python and Java to combine performance and productivity, taking advantage of both worlds of programming.</p>
+<p>A curious software developer who likes to explore technologies like Rust, Python and Java to combine performance and productivity, taking advantage of both worlds of programming.</p>
 
 <h3>Languages, Frameworks and Tools</h3><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,git,linux">
+<img src="https://skillicons.dev/icons?i=java,spring,rust,python,git,linux">
 
 <h3>Stats</h3>
 
