@@ -4,7 +4,7 @@
 
 <h3>Languages, Frameworks and Tools</h3><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,rust,python,git,linux">
+<img src="https://skillicons.dev/icons?i=java,spring,rust,cpp,python,git,linux">
 
 <h3>Stats</h3>
 
