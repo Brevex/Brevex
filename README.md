@@ -2,9 +2,13 @@
 
 <p>A curious software developer who likes to explore technologies like Rust, Python and Java to combine performance and productivity, taking advantage of both worlds of programming.</p>
 
-<h3>Languages, Frameworks and Tools</h3><br>
+<h3>Languages</h3><br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,rust,cpp,python,git,linux">
+<img src="https://skillicons.dev/icons?i=java,rust,cpp,python">
+
+<h3>Frameworks and Tools</h3><br>
+
+<img src="https://skillicons.dev/icons?i=spring,firebase,postgres,arduino,git,linux">
 
 <h3>Stats</h3>
 
