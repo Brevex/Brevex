@@ -1,15 +1,15 @@
 <h1>Hello, I'm Breno</h1>
 
-<p>A curious software developer who likes to explore technologies like Rust, Python and Java to combine performance
+<p>A curious software developer who likes to explore technologies like Rust, TypeScript and Java to combine performance
 and productivity, taking advantage of both worlds of programming. IT Undergraduate Student at Federal University of Rio Grande do Norte.</p>
 
 <h3>Languages</h3><br>
 
-<img src="https://skillicons.dev/icons?i=java,rust,cpp,python">
+<img src="https://skillicons.dev/icons?i=java,rust,cpp,ts">
 
 <h3>Frameworks and Tools</h3><br>
 
-<img src="https://skillicons.dev/icons?i=spring,firebase,postgres,arduino,git,linux">
+<img src="https://skillicons.dev/icons?i=spring,firebase,postgres,angular,arduino,git,linux">
 
 <h3>Stats</h3>
 
