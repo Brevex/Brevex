@@ -15,9 +15,9 @@ and productivity, taking advantage of both worlds of programming. IT Undergradua
 
 <p>
           <br>
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brevex&theme=codeSTACKr" href="http://github.com/brevex" style="width: 250px;">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brevex&theme=codeSTACKr" href="http://github.com/brevex" style="width: 250px;">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brevex&theme=codeSTACKr&utcOffset=8" href="http://github.com/brevex" style="width: 250px;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brevex&theme=gotham" href="http://github.com/brevex" style="width: 250px;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brevex&theme=gotham" href="http://github.com/brevex" style="width: 250px;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brevex&theme=gotham&utcOffset=8" href="http://github.com/brevex" style="width: 250px;">
 </p><hr>
 
 <p align="center">
