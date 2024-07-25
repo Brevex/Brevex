@@ -9,7 +9,7 @@ and productivity, taking advantage of both worlds of programming. IT Undergradua
 
 <h3>Frameworks and Tools</h3><br>
 
-<img src="https://skillicons.dev/icons?i=spring,firebase,postgres,arduino,git,linux">
+<img src="https://skillicons.dev/icons?i=spring,vue,firebase,postgres,arduino,git,linux">
 
 <h3>Stats</h3>
 
