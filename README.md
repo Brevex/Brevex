@@ -1,6 +1,6 @@
 <h1>Hello, I'm Breno</h1>
 
-<p>A curious software developer who likes to explore technologies like Rust, TypeScript and Java to combine performance
+<p>A curious software developer who likes to explore technologies like Rust, Python and Java to combine performance
 and productivity, taking advantage of both worlds of programming. IT Undergraduate Student at Federal University of Rio Grande do Norte.</p>
 
 <h3>Languages</h3><br>
