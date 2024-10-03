@@ -7,7 +7,7 @@ and productivity, taking advantage of both worlds of programming. IT Undergradua
 
 <img src="https://skillicons.dev/icons?i=java,rust,python">
 
-<h3>Frameworks and Tools</h3><br>
+<h3>Frameworks, Databases and Tools</h3><br>
 
 <img src="https://skillicons.dev/icons?i=spring,firebase,postgres,docker,arduino">
 
