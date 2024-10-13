@@ -1,3 +1,4 @@
+<img align="right" alt="gif" height="70" style="border-radius:50px;" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif">
 <h1>Hello, I'm Breno</h1>
 
 <p>A curious software developer who likes to explore technologies like Rust, Python and Java to combine performance
