@@ -6,11 +6,11 @@ and productivity, taking advantage of both worlds of programming. IT Undergradua
 
 <h3>Languages</h3><br>
 
-<img src="https://skillicons.dev/icons?i=java,rust">
+[![Skills](https://skills.syvixor.com/api/icons?i=java,rust)](https://github.com/syvixor/skills-icons)
 
 <h3>Frameworks, Databases and Tools</h3><br>
 
-<img src="https://skillicons.dev/icons?i=spring,postgres,angular,docker,arduino">
+[![Skills](https://skills.syvixor.com/api/icons?i=spring,postgresql,angular,docker,arduino)](https://github.com/syvixor/skills-icons)
 
 <h3>Stats</h3>
 
