@@ -9,7 +9,7 @@
 
 <h3>Frameworks, Databases and Tools</h3><br>
 
-[![Skills](https://skills.syvixor.com/api/icons?i=django,postgresql,angular,docker,arduino)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=fastapi,postgresql,angular,docker,arduino)](https://github.com/syvixor/skills-icons)
 
 <h3>Stats</h3>
 
