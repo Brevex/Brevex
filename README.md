@@ -5,7 +5,7 @@
 
 <h3>Languages</h3><br>
 
-[![Skills](https://skills.syvixor.com/api/icons?i=python,rust)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=python,java)](https://github.com/syvixor/skills-icons)
 
 <h3>Frameworks, Databases and Tools</h3><br>
 
