@@ -1,7 +1,7 @@
 <img align="right" alt="gif" height="70" style="border-radius:50px;" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif">
 <h1>Hello, I'm Breno</h1>
 
-<p>A curious software developer passionate about exploring technologies like Rust and Java to blend performance with productivity, leveraging the best of both programming worlds. Currently an undergraduate student in Computer Science at the Federal University of Rio Grande do Norte.</p>
+<p>Software Developer specializing in AI integration for enterprise systems. Exp. in real-time feature extraction with computer vision & back-end deployment. Computer Science student at UFRN. Coffee, cats, and code.</p>
 
 <h3>Languages</h3><br>
 
