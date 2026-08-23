@@ -11,6 +11,8 @@
 
 [![Skills](https://skills.syvixor.com/api/icons?i=pytorch,opencv,spring,postgresql,docker,linux)](https://github.com/syvixor/skills-icons)
 
+<h3>Contact me</h3><br>
+
 <p align="center">
           <a href="https://www.linkedin.com/in/brenobDev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
           <a href="https://devbreno.com.br/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
